@@ -27,7 +27,7 @@ To get started with the Online Banking System, follow these steps:
 
 1.Clone the repository to your local machine:
 
-`Copy code`
+Copy code
 ```bash
 git clone https://github.com/IroshanRathnayake/Online-Banking-System.git
 ```
