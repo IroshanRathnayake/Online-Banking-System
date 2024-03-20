@@ -45,10 +45,6 @@ git clone https://github.com/IroshanRathnayake/Online-Banking-System.git
 
 8.Follow the on-screen instructions to log in, perform banking tasks, and explore the system's functionalities.
 
-![Image](/Images/Img01.png)
-![Image](/Images/Img02.png)
-
-
 ## Contributions
 
 Contributions to this project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, your contributions help make the Online Banking System better for everyone. Please adhere to the project's coding standards and guidelines when submitting pull requests.
