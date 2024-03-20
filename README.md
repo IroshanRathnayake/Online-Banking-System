@@ -1,6 +1,6 @@
 # Online Banking System V1.2
 
-Welcome to the Online Banking System GitHub repository! This project consists of two (`Java applications`) the Bank System and the Client App. Together, they form a comprehensive online banking system capable of performing various banking tasks securely and efficiently.
+Welcome to the Online Banking System! This project consists of two `Java applications:` the Bank System and the Client App. Together, they form a comprehensive online banking system capable of performing various banking tasks securely and efficiently.
 
 ## Features
 
@@ -19,7 +19,7 @@ Welcome to the Online Banking System GitHub repository! This project consists of
     - Account balance inquiries
     - Reports Generator (All the Details)
     - And more.
-- **Database Integration:** The Online Banking System integrates with a relational database management system (RDBMS) to store and retrieve user account information, transaction data, and other relevant details securely. Commonly used databases include (`MySQL`), (`PostgreSQL`), or (`HeidiSQL`).
+- **Database Integration:** The Online Banking System integrates with a relational database management system (RDBMS) to store and retrieve user account information, transaction data, and other relevant details securely. Commonly used databases include `MySQL`, `PostgreSQL`, or `HeidiSQL`.
 
 ## Getting Started
 
@@ -27,8 +27,8 @@ To get started with the Online Banking System, follow these steps:
 
 1.Clone the repository to your local machine:
 
+`Copy code`
 ```bash
-Copy code
 git clone https://github.com/IroshanRathnayake/Online-Banking-System.git
 ```
 2.Open the Bank System and Client App projects in your preferred Java IDE.
@@ -44,6 +44,10 @@ git clone https://github.com/IroshanRathnayake/Online-Banking-System.git
 7.Run the Client App application to launch the front-end interface.
 
 8.Follow the on-screen instructions to log in, perform banking tasks, and explore the system's functionalities.
+
+![Image](/Images/Img01.png)
+![Image](/Images/Img02.png)
+
 
 ## Contributions
 
